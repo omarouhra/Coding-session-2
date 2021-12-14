@@ -10,6 +10,6 @@
 
 **npm start"**
 
-# Grab a coffe and let's get down to work using the following command:
+## Grab a coffe and let's get down to work using the following command:
 
 ### npm coffe please -with no sugar ☕"
