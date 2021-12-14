@@ -16,4 +16,4 @@ Start your local server 🔥 using the following command:
 ## step 4
 Grab a coffe and let's get down to work using the following command:
 
-### npm coffe please -with no suger ☕"
+### npm coffe please -with no sugar ☕"
