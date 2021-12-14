@@ -1,10 +1,10 @@
-### Step 1
+# Step 1
 
 Clone the github repo by running
 
-# git clone 'repo Url'
+### git clone 'repo Url'
 
-### Step 2
+# Step 2
 
 Install packages by running
 
@@ -14,4 +14,4 @@ Install packages by running
 
 Start your local server by running
 
-# npm run start
+### npm run start
