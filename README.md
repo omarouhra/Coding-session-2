@@ -8,9 +8,9 @@ Clone the github repo by running
 
 Install packages by running
 
-# npm i
+### npm i
 
-### Step 3
+# Step 3
 
 Start your local server by running
 
