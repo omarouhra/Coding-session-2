@@ -1,21 +1,17 @@
-![React Logo](https://github.com/vercel/vercel/blob/main/packages/frameworks/logos/react.svg)
+### Step 1
 
-# React Example
+Clone the github repo by running
 
-This directory is a brief example of a [React](https://reactjs.org/) app with [Serverless Functions](https://vercel.com/docs/v2/serverless-functions/introduction) that can be deployed with Vercel and zero configuration.
+# git clone 'repo Url'
 
-## Deploy Your Own
+### Step 2
 
-Deploy your own React project, along with Serverless Functions, with Vercel.
+Install packages by running
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/vercel/tree/main/examples/create-react-app-functions&template=create-react-app)
+# npm i
 
-_Live Example: https://create-react-app.now-examples.now.sh/_
+### Step 3
 
-### How We Created This Example
+Start your local server by running
 
-To get started with React, along with [Serverless Functions](https://vercel.com/docs/v2/serverless-functions/introduction), with Vercel, you can use the [Create-React-App CLI](https://reactjs.org/docs/create-a-new-react-app.html#create-react-app) to initialize the project:
-
-```shell
-$ npx create-react-app my-app
-```
+# npm run start
