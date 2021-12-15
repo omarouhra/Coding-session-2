@@ -1,3 +1,19 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer components {
+  .button {
+    @apply bg-gray-100 text-black text-xl  px-2 rounded-full transition duration-500;
+  }
+
+  .container {
+    @apply h-screen w-full  flex flex-col space-y-10 items-center justify-center transition duration-500;
+  }
+  .alertContainer {
+    @apply w-[500px] rounded-md shadow-xl text-white bg-red-700 py-12 px-4 transition duration-500 animate-bounce;
+  }
+  .card {
+    @apply rounded-md shadow-xl transition duration-500;
+  }
+}
